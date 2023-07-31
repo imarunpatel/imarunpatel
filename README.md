@@ -51,7 +51,7 @@
 
 </details>
 
-[website]: https://engineer-geeks.blogspot.com/
+[website]: https://imarunpatel.com/
 [twitter]: https://twitter.com/imarunpatel
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/imarunpatel
