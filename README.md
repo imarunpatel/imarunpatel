@@ -1,9 +1,9 @@
-### Hi there, I'm Arun 👋
+### Hi there 👋, I'm Arun a Frontend Engineer! 
 
-[![Website](https://img.shields.io/website?label=engineer-geeks.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imarunpatel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imarunpatel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimarunpatel&screen_name=imarunpatel)
+<!-- -  [![Website](https://img.shields.io/website?label=engineer-geeks.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imarunpatel.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/imarunpatel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimarunpatel&screen_name=imarunpatel)-->
 
-## I'm a Frontend Engineer!
+<!-- -  ## I'm a Frontend Engineer! -->
 
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
