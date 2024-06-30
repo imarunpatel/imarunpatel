@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arun a FullStack Engineer! 
 <hr>
-<!-- -  [![Website](https://img.shields.io/website?label=engineer-geeks.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imarunpatel.com)
+<!-- -  [![Website](https://img.shields.io/website?label=engineer-geeks.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arunpatel.skillstrack.in)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imarunpatel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fimarunpatel&screen_name=imarunpatel)-->
 
 <!-- -  ## I'm a Frontend Engineer! -->
@@ -51,9 +51,9 @@
 
 </details>
 
-[website]: https://imarunpatel.com/
+[website]: https://arunpatel.skillstrack.com/
 [twitter]: https://twitter.com/imarunpatel
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/imarunpatel
 [linkedin]: https://linkedin.com/in/imarunpatel
-[webdevplaylist]: https://imarunpatel.com/
+[webdevplaylist]: https://arunpatel.skillstrack.com/
