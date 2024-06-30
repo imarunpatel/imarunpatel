@@ -51,7 +51,7 @@
 
 </details>
 
-[website]: https://arunpatel.skillstrack.com/
+[website]: https://arunpatel.skillstrack.in/
 [twitter]: https://twitter.com/imarunpatel
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/imarunpatel
